@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  padding: 40px 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.hero {
+  text-align: center;
+  background: #f5f5f5;
+}
+
+.cta {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 15px 25px;
+  background: black;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.price {
+  text-align: center;
+  background: #eee;
+}
+
+.amount {
+  font-size: 2em;
+}
